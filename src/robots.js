@@ -7,15 +7,15 @@ export const robots = [
   },
   {
     id: 2,
-    name: "Mr. Roboto",
-    username: "Robo",
-    email: "roboto-man@metalmania.com",
+    name: "Johnny Five",
+    username: "Shorty",
+    email: "shortcircuit@novalabratories.com",
   },
   {
     id: 3,
-    name: "Mr. Roboto",
-    username: "Robo",
-    email: "roboto-man@metalmania.com",
+    name: "Rodney Copperbottom",
+    username: "Rod-C",
+    email: "rodtheman@bigweldindustries.com",
   },
   {
     id: 4,
