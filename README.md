@@ -1,5 +1,6 @@
 ![Robofriends](https://user-images.githubusercontent.com/93938033/199845378-a4281739-124b-43d6-b76a-964e03bbddb8.png)
 
+Robofriend app built using React - returns API username and robot data from RoboHash
 
 # Getting Started with Create React App
 
